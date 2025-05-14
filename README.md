@@ -2,9 +2,9 @@
 A calculator investment in react using state.
 
 <h1> 
-<img src="public/investment-calculator-preview.png">
-<img src="public/investment-calculator-preview.png">
-<p>Tic-tac-toe</p>
+<img src="public/investment-calculator-preview-pc.png">
+<h2> Mobile view </h2>
+<img src="public/investment-calculator-preview-mobile.png">
 </h1>
 
 ## 🚨 Sobre
@@ -16,6 +16,6 @@ A calculator investment in react using state.
 - React
 - Vite
 
-<br><br>
+<br>
 ## 🎯 Link do projeto:
-### <a target="_blank" href="https://nattancode07.github.io/projeto-dicovery/">https://nattancode07.github.io/projeto-dicovery/</a>
+### <a target="_blank" href="https://nattancode07.github.io/Investment-calculator/">https://nattancode07.github.io/Investment-calculator/</a>
